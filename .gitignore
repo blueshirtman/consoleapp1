@@ -1,0 +1,13 @@
+# Build and VS folders
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.sqlite
+
+# Logs
+*.log
+
+# Publish output
+publish/
