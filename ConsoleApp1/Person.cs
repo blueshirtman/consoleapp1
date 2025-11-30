@@ -26,6 +26,10 @@ namespace ConsoleApp1
 
 
     }
+    public class Testing
+    {
+    public string Name { get; set; }
+    }
 
     public class Test
     {
