@@ -10,7 +10,6 @@ namespace ConsoleApp1
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-
         public string Title { get; set; }   
         public Address PersonalAddress { get; set; }
         public Address ProfessionalAddress { get; set; }
@@ -30,6 +29,12 @@ namespace ConsoleApp1
     public class Testing
     {
     public string Name { get; set; }
+    }
+
+    public class Test
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 } 
 
